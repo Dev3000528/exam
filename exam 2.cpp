@@ -11,5 +11,4 @@ int main() {
         printf("%c is not an alphabetic letter.\n", ch);
     }
 
-    return 0;
 }
